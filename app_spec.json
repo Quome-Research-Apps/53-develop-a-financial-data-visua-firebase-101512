@@ -1,0 +1,1 @@
+{"name": "53-develop-a-financial-data-visua-firebase-101512", "spec": {"port": 8000, "containers": [{"image": "", "name": "53-develop-a-financial-data-visua-firebase-101512", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
